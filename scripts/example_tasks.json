@@ -1,0 +1,77 @@
+{
+  "start_date": "2026-04-01",
+  "days": 6,
+  "hours_per_day": 6,
+  "blocked_dates": [
+    "2026-04-04"
+  ],
+  "daily_capacity_overrides": {
+    "2026-04-03": 3.5,
+    "2026-04-06": 4
+  },
+  "notes": "Protect Saturday for admin catch-up and keep Friday lighter because of client review prep.",
+  "tasks": [
+    {
+      "title": "Finalize project brief",
+      "due": "2026-04-02",
+      "estimated_hours": 2,
+      "priority": 5,
+      "tags": [
+        "strategy",
+        "stakeholders"
+      ],
+      "notes": "Share with stakeholders before noon."
+    },
+    {
+      "title": "Prepare sprint board",
+      "due": "2026-04-03",
+      "estimated_hours": 1.5,
+      "priority": 4,
+      "tags": [
+        "planning"
+      ],
+      "notes": "Break work into shippable tickets."
+    },
+    {
+      "title": "Write client follow-up email",
+      "due": "2026-04-01",
+      "estimated_hours": 0.5,
+      "priority": 5,
+      "tags": [
+        "comms"
+      ],
+      "notes": "Confirm next review date."
+    },
+    {
+      "title": "Draft onboarding checklist",
+      "due": "2026-04-04",
+      "estimated_hours": 3,
+      "priority": 3,
+      "tags": [
+        "ops"
+      ],
+      "notes": "Include tooling setup and access requests."
+    },
+    {
+      "title": "Review analytics backlog",
+      "due": "2026-04-05",
+      "estimated_hours": 4,
+      "priority": 2,
+      "tags": [
+        "analytics"
+      ],
+      "notes": "Surface quick wins for the next planning cycle."
+    },
+    {
+      "title": "Create release checklist",
+      "due": "2026-04-06",
+      "estimated_hours": 2.5,
+      "priority": 4,
+      "tags": [
+        "release",
+        "quality"
+      ],
+      "notes": "Include rollback, QA sign-off, and launch-day owners."
+    }
+  ]
+}
