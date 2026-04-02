@@ -43,7 +43,7 @@ For each scheduled item, include:
 When the user provides structured JSON tasks, you can use:
 
 ```powershell
-python .\plugins\task-scheduler\scripts\build_schedule.py --input <tasks.json>
+python .\scripts\build_schedule.py --input <tasks.json>
 ```
 
 The script builds a first-pass markdown schedule that you can refine in your response.

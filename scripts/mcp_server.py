@@ -20,7 +20,7 @@ try:
 except ImportError as exc:  # pragma: no cover - runtime dependency check
     raise SystemExit(
         "Missing dependency 'mcp'. Install it with "
-        "`python -m pip install -r ./plugins/task-scheduler/scripts/requirements-mcp.txt`."
+        "`python -m pip install -r ./scripts/requirements-mcp.txt`."
     ) from exc
 
 
