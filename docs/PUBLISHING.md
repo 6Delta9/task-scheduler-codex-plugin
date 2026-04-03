@@ -20,10 +20,13 @@ Recommended updates:
 
 - add a repository-level `LICENSE`
 - add a repository-level `.gitignore`
+- add a repository-level `SECURITY.md`
+- add a repository-level `.codexignore`
 - include this plugin `README.md` at the repo root or link to it clearly
 - confirm all screenshots and icons are final
 - remove generated cache files before publishing
 - ensure example data is safe to share publicly
+- enable the Codex plugin scanner workflow in `.github/workflows/`
 
 ## Codex Plugin Checklist
 

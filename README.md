@@ -273,6 +273,7 @@ scripts/example_tasks.json
 - [Development Guide](./docs/DEVELOPMENT.md)
 - [Publishing Guide](./docs/PUBLISHING.md)
 - [Contributing](./CONTRIBUTING.md)
+- [Security Policy](./SECURITY.md)
 - [Privacy Policy](./PRIVACY.md)
 - [Terms of Service](./TERMS.md)
 
